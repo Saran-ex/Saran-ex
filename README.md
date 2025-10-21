@@ -17,7 +17,7 @@ Artificial Intelligence & Data Science Student passionate about solving real-wor
 
 
 # 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/summer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/summer) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saranpalanisamy95@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/summer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/saran-p-bb9b63331) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saranpalanisamy95@gmail.com) 
 
 
 # 📊 GitHub Stats:
