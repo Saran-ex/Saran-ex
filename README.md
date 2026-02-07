@@ -26,18 +26,17 @@ Artificial Intelligence & Data Science Student passionate about solving real-wor
 # 🛰️ SixEyes (Full-Stack Intelligence Terminal)
 <br>![Hero Section](assets/SIXEYES.png)<br><br>
 
-- AI-assisted **intelligence analysis** platform that simulates a high-fidelity **government terminal**.  
-- Enables operatives to:  
-  - Ingest and process **surveillance videos**  
-  - Perform **AI-powered threat/context analysis**  
-  - Generate standardized **confidential dossiers (PDF)**  
-  - Archive and revisit case logs securely  
-- Implements a cohesive workflow: **Ingest → Analyze → Report → Archive**  
+- AI-assisted investigation and evidence analysis platform  
+- Features:<br>
+  - **Upload and manage video evidence** securely (MP4, AVI, MOV)  
+  - **AI-powered contextual analysis** with interactive chat support  
+  - **Auto-generate detailed case dossiers** in PDF format  
+  - **User authentication and role-based access** using JWT & BCrypt  
+  - **Archive system** for tracking and reopening past cases  
+  - **Smooth and responsive UI** with modern animations and dark terminal theme  
+-  
 
----
-
-## 🧠 Tech Stack
-
+# Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
@@ -50,20 +49,7 @@ Artificial Intelligence & Data Science Student passionate about solving real-wor
 ![Multer](https://img.shields.io/badge/multer-%23F05032.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![jsPDF](https://img.shields.io/badge/jsPDF-%23F24E1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
-
----
-
-### ⚙️ Key Modules
-- **Gatekeeper:** Secure login/signup with JWT & BCrypt  
-- **Ingestion:** Upload and manage raw surveillance videos  
-- **Intelligence Core:** AI chat for analysis with video context  
-- **Dossier Reporting:** Auto-generate “CONFIDENTIAL” PDFs  
-- **Archives:** Case log history and profile records  
-
----
-
-> Built with ❤️ to merge intelligence analysis with modern web engineering.
-
+<br>
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/summer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/saran-p-bb9b63331) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saranpalanisamy95@gmail.com) 
