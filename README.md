@@ -31,7 +31,7 @@ Artificial Intelligence & Data Science Student passionate about solving real-wor
   - **Upload and manage video evidence** securely (MP4, AVI, MOV)  
   - **AI-powered contextual analysis** with interactive chat support  
   - **Auto-generate detailed case dossiers** in PDF format  
-  - **User authentication and role-based access** using JWT & BCrypt  
+  - **User authentication and role-based access** BCrypt  
   - **Archive system** for tracking and reopening past cases  
   - **Smooth and responsive UI** with modern animations and dark terminal theme  
 -  
@@ -47,12 +47,11 @@ Artificial Intelligence & Data Science Student passionate about solving real-wor
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Multer](https://img.shields.io/badge/multer-%23F05032.svg?style=for-the-badge&logo=npm&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![jsPDF](https://img.shields.io/badge/jsPDF-%23F24E1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
 <br>
 
 # 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/summer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/saran-p-bb9b63331) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saranpalanisamy95@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/saran.ishere?igsh=cTh3N290dGNleDRq) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/saran-p-bb9b63331) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saranpalanisamy95@gmail.com) 
 
 
 # 💻 Tech Stack:
